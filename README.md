@@ -7,5 +7,5 @@ Email: ansel.paul@msds.christuniversity.in
 
 | SLNo.         | Lab Name          | Question        |  link to the file | 
 | ------------- | -------------     | --------        |                   |
-|        1.     |     lab 01        |       1.          |                   |
+|        1.     |     lab 01        |       1.        |                   |
 |               |                   |                 |                   |
