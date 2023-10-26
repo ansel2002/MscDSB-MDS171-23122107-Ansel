@@ -15,4 +15,4 @@ Email: ansel.paul@msds.christuniversity.in
 |        2.     |     lab 02        |        2.       |                   |
 |        3.     |     lab 03        |        3.       |                   |
 |        4.     |     lab 04        |        4.       |                   |
->>>>>>> 9e3f0959a60023ddf2cfbc13b17714fc4d3b41a1
+
