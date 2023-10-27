@@ -146,6 +146,7 @@ while True:
     print("3. View Records")
     print("4. View My Spendings")
     print("5. Exit")
+    
 
     choice = int(input("Enter your choice: ").strip())
 
